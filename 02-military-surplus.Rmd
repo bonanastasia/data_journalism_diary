@@ -1,0 +1,3 @@
+# Project: Military Surplus {#military-surplus}
+
+Here is a review of existing methods.

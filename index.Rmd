@@ -1,0 +1,32 @@
+--- 
+title: "Data Journalism Diary"
+author: "Ana Goodwin"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a data journalism diary for Anastasia Goodwin"
+---
+
+# Introduction and Motivation {-}
+
+This R book will be used to show my work as a work through UT Austin's "Reporting With Data" class taught by Christian McDonald. This book is *not* a required component of the class, but rather a personal project I wanted to do for myself to give me a place to track my progress and also allow me to build upon the concepts I learn in class.
+
+## Goals {-}
+
+I want to achieve the following goals with this book:
+
+- To give myself a place to practice and develop my skills on my own
+- To keep track of my progress in order to see how far I have come in my data journalism journey
+- To demonstrate my abilities as a data journalist by sharing my code 
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

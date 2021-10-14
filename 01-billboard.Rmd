@@ -1,0 +1,16 @@
+# Project 1: Billboard Hot 100 {#billboard}
+
+## About the data
+
+This project explores data sourced from Billboard Hot 100 from Billboard Media, and compiled by Sean Miller. Miller posted his saved version of the data on data.world. The dataset includes the Billboard’s Weekly Hot 100 singles charts from its inception on 8/2/1958 through 2020.  
+
+## Project goals
+
+During the course of this project, we will answer the following questions by analyzing the data:
+
+- Which performers had the most appearances on the Hot 100 chart at any position?
+- Which performer/song combination has been on the charts the most number of weeks at any position?
+- Which performer had the most songs reach No. 1?
+- Which performer had the most songs reach No. 1 in the most recent five years?
+- Which performer/song combination was No. 1 for the most number of weeks?
+- Which performer had the most Top 10 hits overall?
